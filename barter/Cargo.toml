@@ -35,7 +35,7 @@ serde = { workspace = true, features = ["derive"] }
 serde_json = { workspace = true }
 
 # Persistence
-redis = "0.25.4"
+redis = "0.27.3"
 
 # Strategy
 ta = { workspace = true }
